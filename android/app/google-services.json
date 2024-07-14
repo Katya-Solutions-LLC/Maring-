@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392636948938",
+    "project_id": "maring-d2350",
+    "storage_bucket": "maring-d2350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392636948938:android:d6848bffcf8268d8246f33",
+        "android_client_info": {
+          "package_name": "com.marina.share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_dEUy7YvU8wyxt1yAS-37Jb_W6g1k3_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
