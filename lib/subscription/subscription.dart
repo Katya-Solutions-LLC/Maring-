@@ -1,6 +1,6 @@
 import 'dart:async';
 import 'dart:io';
-import 'package:carousel_slider/carousel_slider.dart';
+import 'package:carousel_slider_plus/carousel_slider_plus.dart';
 import 'package:maring/pages/login.dart';
 import 'package:maring/provider/subscriptionprovider.dart';
 import 'package:maring/subscription/allpayment.dart';
