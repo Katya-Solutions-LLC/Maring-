@@ -59,7 +59,7 @@ We welcome contributions from the community! If you'd like to contribute, please
 ## 📧 Contact
 
 For any inquiries or feedback, please contact us at:
-- **Email**: musicdapp@rechain.email
+- **Email**: musicdapp@adminmarina.ru
 - **Telegram**: [@MarinaModaChat](https://t.me/marinamodachat)
 - **Website**: [marina.moda](https://www.marina.moda)
 
@@ -71,4 +71,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for using Maring ® 🤳! Enjoy your ultimate audio experience!
 
-Copyright © Marina.Moda ® 💖♥️ 2023-2024, All Rights Reserved. Need help? 🤔 Email us! 👇 A Dmitry Sorokin production. All rights reserved. Powered by REChain. 🪐 Copyright © 2023-2024 REChain, Inc REChain ® is a registered trademark hr@rechain.email p2p@rechain.email pr@rechain.email sorydima@rechain.email support@rechain.email sip@rechain.email music@rechain.email cfa@rechain.email anti@rechain.email mot_cfa@rechain.email rechainstore@rechain.email models@rechain.email dex@rechain.email email@rechain.email musicdapp@rechain.email pitomec@rechain.email Please allow anywhere from 1 to 5 business days for E-mail responses! 💌 Our Stats! 👀 At the end of 2023, the number of downloads from the Open-Source Places, Apple AppStore, Google Play Market, and the REChain.Store ✨ exceeded 29 million downloads. 😈 👀
+Copyright © Marina.Moda ® 💖♥️ 2023-2024, All Rights Reserved. Need help? 🤔 Email us! 👇 A Dmitry Sorokin production. All rights reserved. Powered by REChain. 🪐 Copyright © 2023-2024 REChain, Inc REChain ® is a registered trademark hr@adminmarina.ru p2p@adminmarina.ru pr@adminmarina.ru sorydima@adminmarina.ru support@adminmarina.ru sip@adminmarina.ru music@adminmarina.ru cfa@adminmarina.ru anti@adminmarina.ru mot_cfa@adminmarina.ru rechainstore@adminmarina.ru models@adminmarina.ru dex@adminmarina.ru email@adminmarina.ru musicdapp@adminmarina.ru pitomec@adminmarina.ru husco@adminmarina.ru Please allow anywhere from 1 to 5 business days for E-mail responses! 💌 Our Stats! 👀 At the end of 2023, the number of downloads from the Open-Source Places, Apple AppStore, Google Play Market, and the REChain.Store ✨ exceeded 29 million downloads. 😈 👀
